@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const MovieList = props => {
+export const MovieList = props => {
   const [movies, setMovies] = useState([])
   useEffect(() => {
     const getMovies = () => {
