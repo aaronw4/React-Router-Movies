@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/React-Router-Apple-Nav/precache-manifest.c38c155f8e1167e08f1dae494238c012.js"
+  "/React-Router-Apple-Nav/precache-manifest.0fad1eeb10ce90272598509140b4e7fd.js"
 );
 
 self.addEventListener('message', (event) => {

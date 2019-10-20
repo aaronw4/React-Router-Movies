@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Router-Apple-Nav/static/css/main.7118d463.chunk.css",
+    "main.css": "/React-Router-Apple-Nav/static/css/main.e727b458.chunk.css",
     "main.js": "/React-Router-Apple-Nav/static/js/main.2218514f.chunk.js",
     "main.js.map": "/React-Router-Apple-Nav/static/js/main.2218514f.chunk.js.map",
     "runtime-main.js": "/React-Router-Apple-Nav/static/js/runtime-main.d25c2997.js",
@@ -8,9 +8,9 @@
     "static/js/2.ac04cc7a.chunk.js": "/React-Router-Apple-Nav/static/js/2.ac04cc7a.chunk.js",
     "static/js/2.ac04cc7a.chunk.js.map": "/React-Router-Apple-Nav/static/js/2.ac04cc7a.chunk.js.map",
     "index.html": "/React-Router-Apple-Nav/index.html",
-    "precache-manifest.c38c155f8e1167e08f1dae494238c012.js": "/React-Router-Apple-Nav/precache-manifest.c38c155f8e1167e08f1dae494238c012.js",
+    "precache-manifest.0fad1eeb10ce90272598509140b4e7fd.js": "/React-Router-Apple-Nav/precache-manifest.0fad1eeb10ce90272598509140b4e7fd.js",
     "service-worker.js": "/React-Router-Apple-Nav/service-worker.js",
-    "static/css/main.7118d463.chunk.css.map": "/React-Router-Apple-Nav/static/css/main.7118d463.chunk.css.map",
+    "static/css/main.e727b458.chunk.css.map": "/React-Router-Apple-Nav/static/css/main.e727b458.chunk.css.map",
     "static/media/home.jpg": "/React-Router-Apple-Nav/static/media/home.6151e109.jpg",
     "static/media/imac.png": "/React-Router-Apple-Nav/static/media/imac.2521b06d.png",
     "static/media/ipad.png": "/React-Router-Apple-Nav/static/media/ipad.2aafe0dd.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.d25c2997.js",
     "static/js/2.ac04cc7a.chunk.js",
-    "static/css/main.7118d463.chunk.css",
+    "static/css/main.e727b458.chunk.css",
     "static/js/main.2218514f.chunk.js"
   ]
 }
